@@ -4,4 +4,4 @@
 * [Resource Browser](resource-browser-1.md)
 * [GitOps](gitops.md)
 * [Application Groups](application-groups.md)
-* [Application Groups](application-groups-1.md)
+* [Application Groupsa](application-groupsa.md)
